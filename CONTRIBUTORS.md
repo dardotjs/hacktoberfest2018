@@ -24,3 +24,10 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
+
+#### Name: Blessing Nathaniel Rweikiza
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer and graphic designer
+ - Email: blessingnathaniel01@gmail.com
+ - Twitter: [@blessnathan01](https://twitter.com/blessnathan01)
+ - GitHub: [Blessing-Nathaniel](https://github.com/Blessing-Nathaniel)
