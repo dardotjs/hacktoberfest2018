@@ -1,8 +1,16 @@
 'use strict';
 
 // LANGUAGE: Javascript
+//
 // ENV: Node.js
-// AUTHOR: Joshua Mabina
-// GITHUB: https://github.com/joshuamabina
+// AUTHOR: frank john
+// GITHUB: https://github.com/frank2ny
 
-console.log('Hello World');
+const me = {
+  name: 'frank john ',
+    interest: 'sport and water',
+    likes : 'javascript',
+    dislikes:'javascript'
+  }
+  
+console.log(me);
