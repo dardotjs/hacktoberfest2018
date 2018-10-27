@@ -10,6 +10,18 @@
  - Email: bernadeteffy@gmail.com
  - GitHub: [BernaTeffy](https://github.com/BernaTeffy)
  
+#### Name: Abraham Samma
+- Place: Dar es Salaam, Tanzania
+- Bio: Medical doctor, developer
+- Email: sammadiscerning@gmail.com
+- GitHub: [abesamma](http://github.com/abesamma)
+
+#### Name: Frank Magai
+- Place: Dar es Salaam, Tanzania
+- Bio: Python developer
+- Email: magaifrank@gmail.com
+- GitHub: Pending for now
+
 #### Name: Mike
  - Place: Dar es Salaam, Tanzania
  - Bio: I enjoy using computers
@@ -42,4 +54,3 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
-
