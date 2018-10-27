@@ -3,7 +3,6 @@
  - Bio: Developer, <3s Vim, #DataScience
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
-<<<<<<< HEAD
 
 #### Name: Abraham Samma
 - Place: Dar es Salaam, Tanzania
@@ -16,7 +15,6 @@
 - Bio: Python developer
 - Email: magaifrank@gmail.com
 - GitHub: Pending for now
-=======
  
 #### Name: Adam shoo
  - Place: Dar es Salaam, Tanzania
@@ -38,4 +36,3 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
->>>>>>> master
