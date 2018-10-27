@@ -103,6 +103,12 @@ console.log('Hello, World!');
 
 Name the file `hello_world_yourusername.js`.
 
+If you have nodejs (a javscript environment for the command line 😍), you can run this javascript file using:
+
+```Shell
+node <file name>
+```
+
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
 Here is my `hello_world` example: [hello_world_joshuamabina.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_joshuamabina.js)
