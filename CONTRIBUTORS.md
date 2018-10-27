@@ -4,3 +4,9 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
+ #### Name: [YOUR NAME](GitHub link)
+- Place: Dar es Salaam, Tanzania
+- Bio: Developer
+- Email: jterlius@gmail.com
+- GitHub: [julius091](https://github.com/julius091)
+
