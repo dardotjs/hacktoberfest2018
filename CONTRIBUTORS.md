@@ -54,3 +54,11 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
+
+ #### Name: Charles .B. Njau
+ - Place: Dar es Salaam, Tanzania
+ - Bio: IT 
+ - Email: nlwsolomon@gmail.com
+ - Twitter: [@talex](https://twitter.com/talex)
+ - GitHub: [mtuchi](https://github.com/CharlesNjau)
+
