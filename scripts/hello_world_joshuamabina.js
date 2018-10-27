@@ -6,3 +6,4 @@
 // GITHUB: https://github.com/joshuamabina
 
 console.log('Hello World');
+console.log('Hey its Berna!');

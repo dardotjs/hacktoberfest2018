@@ -3,6 +3,36 @@
  - Bio: Developer, <3s Vim, #DataScience
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
+
+ #### Name: Berna Teffy
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developers, Musicians, Foodies, Aspiring JS developers
+ - Email: bernadeteffy@gmail.com
+ - GitHub: [BernaTeffy](https://github.com/BernaTeffy)
+ 
+#### Name: Abraham Samma
+- Place: Dar es Salaam, Tanzania
+- Bio: Medical doctor, developer
+- Email: sammadiscerning@gmail.com
+- GitHub: [abesamma](http://github.com/abesamma)
+
+#### Name: Frank Magai
+- Place: Dar es Salaam, Tanzania
+- Bio: Python developer
+- Email: magaifrank@gmail.com
+- GitHub: Pending for now
+
+#### Name: Mike
+ - Place: Dar es Salaam, Tanzania
+ - Bio: I enjoy using computers
+ - Email: m453h@gmail.com
+ - GitHub: [m453h](https://github.com/m453h)
+
+#### Name: Upendo SM
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Data, Cafes and Bikes
+ - Email: usmchome@hotmail.com
+ - GitHub: [spookypendo](https://github.com/spookypendo)
  
 #### Name: Adam shoo
  - Place: Dar es Salaam, Tanzania
@@ -31,3 +61,4 @@
  - Email: frank2nyyy@gmail.com
  - Twitter: [@frank2nyy](https://twitter.com/frank2nyy)
  - GitHub: [@frank2ny](https://github.com/frank2ny)
+
