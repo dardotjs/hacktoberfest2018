@@ -9,7 +9,15 @@
  - Bio: Data, Cafes and Bikes
  - Email: usmchome@hotmail.com
  - GitHub: [spookypendo](https://github.com/spookypendo)
-
+ 
+#### Name: Adam shoo
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer, #DataScience
+ - Email: shoovisual@gmail.com
+ - Carrier: Graphics Designer & Web developer
+ - Interest: Creative, Travel, Design, Coding
+ - GitHub: [shoovisual](https://github.com/shoovisual)
+ 
 #### Name: Abuka Nshunju
  - Place: Dar es Salaam, Tanzania
  - Bio: Developer, tech-lover
