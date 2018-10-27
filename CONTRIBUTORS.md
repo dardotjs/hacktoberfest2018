@@ -4,6 +4,19 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
+<<<<<<< HEAD
+#### Name: Abraham Samma
+- Place: Dar es Salaam, Tanzania
+- Bio: Medical doctor, developer
+- Email: sammadiscerning@gmail.com
+- GitHub: [abesamma](http://github.com/abesamma)
+
+#### Name: Frank Magai
+- Place: Dar es Salaam, Tanzania
+- Bio: Python developer
+- Email: magaifrank@gmail.com
+- GitHub: Pending for now
+=======
 #### Name: Mike
  - Place: Dar es Salaam, Tanzania
  - Bio: I enjoy using computers
@@ -15,6 +28,7 @@
  - Bio: Data, Cafes and Bikes
  - Email: usmchome@hotmail.com
  - GitHub: [spookypendo](https://github.com/spookypendo)
+>>>>>>> master
  
 #### Name: Adam shoo
  - Place: Dar es Salaam, Tanzania
