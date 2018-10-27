@@ -4,6 +4,30 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
+ #### Name: Julius Hatibu
+- Place: Dar es Salaam, Tanzania
+- Bio: Developer
+- Email: jterlius@gmail.com
+- GitHub: [julius091](https://github.com/julius091)
+
+ #### Name: Berna Teffy
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developers, Musicians, Foodies, Aspiring JS developers
+ - Email: bernadeteffy@gmail.com
+ - GitHub: [BernaTeffy](https://github.com/BernaTeffy)
+ 
+#### Name: Abraham Samma
+- Place: Dar es Salaam, Tanzania
+- Bio: Medical doctor, developer
+- Email: sammadiscerning@gmail.com
+- GitHub: [abesamma](http://github.com/abesamma)
+
+#### Name: Frank Magai
+- Place: Dar es Salaam, Tanzania
+- Bio: Python developer
+- Email: magaifrank@gmail.com
+- GitHub: Pending for now
+
 #### Name: Mike
  - Place: Dar es Salaam, Tanzania
  - Bio: I enjoy using computers
@@ -42,3 +66,17 @@
  - Bio: Developer, Android, NodeJs
  - Email: simonmawole2011@gmail.com
  - GitHub: [simonmawole](https://github.com/simonmawole)
+ 
+#### Name: Blessing Nathaniel Rweikiza
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer and graphic designer
+ - Email: blessingnathaniel01@gmail.com
+ - Twitter: [@blessnathan01](https://twitter.com/blessnathan01)
+ - GitHub: [Blessing-Nathaniel](https://github.com/Blessing-Nathaniel)
+ 
+#### Name: FRANK JOHN
+ - Place: Kinondoni , Dar es Salaam, Tanzania
+ - Bio: Developer and Electronics geeks
+ - Email: frank2nyyy@gmail.com
+ - Twitter: [@frank2nyy](https://twitter.com/frank2nyy
+ - GitHub: [@frank2ny](https://github.com/frank2ny)
