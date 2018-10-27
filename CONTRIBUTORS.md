@@ -59,6 +59,5 @@
  - Place: Kinondoni , Dar es Salaam, Tanzania
  - Bio: Developer and Electronics geeks
  - Email: frank2nyyy@gmail.com
- - Twitter: [@frank2nyy](https://twitter.com/frank2nyy)
+ - Twitter: [@frank2nyy](https://twitter.com/frank2nyy
  - GitHub: [@frank2ny](https://github.com/frank2ny)
-
