@@ -4,3 +4,9 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
+#### Name: Abuka Nshunju
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer, tech-lover
+ - Email: abknshunju@gmail.com
+ - GitHub: [AbukaNshunju](https://github.com/abk47)
+
