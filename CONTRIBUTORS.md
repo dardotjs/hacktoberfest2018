@@ -4,6 +4,12 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
+ #### Name: Julius Hatibu
+- Place: Dar es Salaam, Tanzania
+- Bio: Developer
+- Email: jterlius@gmail.com
+- GitHub: [julius091](https://github.com/julius091)
+
  #### Name: Berna Teffy
  - Place: Dar es Salaam, Tanzania
  - Bio: Developers, Musicians, Foodies, Aspiring JS developers
