@@ -10,6 +10,14 @@
  - Email: m453h@gmail.com
  - GitHub: [m453h](https://github.com/m453h)
  
+#### Name: Adam shoo
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer, #DataScience
+ - Email: shoovisual@gmail.com
+ - Carrier: Graphics Designer & Web developer
+ - Interest: Creative, Travel, Design, Coding
+ - GitHub: [shoovisual](https://github.com/shoovisual)
+ 
 #### Name: Abuka Nshunju
  - Place: Dar es Salaam, Tanzania
  - Bio: Developer, tech-lover
