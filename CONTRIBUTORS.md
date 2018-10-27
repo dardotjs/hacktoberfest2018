@@ -24,3 +24,9 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
+
+#### Name: Peter Samson
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Tech noobie
+ - Email: psbugs@yahoo.com
+ - Github: [Peter](https://github.com/psbug)
