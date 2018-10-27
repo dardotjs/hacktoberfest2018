@@ -4,7 +4,7 @@
  - Email: mabinajoshua@gmail.com
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
 
- #### Name: Kevin Berna
+ #### Name: Berna Teffy
  - Place: Dar es Salaam, Tanzania
  - Bio: Developers, Musicians, Foodies, Aspiring JS developers
  - Email: bernadeteffy@gmail.com
