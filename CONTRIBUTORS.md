@@ -36,3 +36,9 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
+
+#### Name: EbenezerMlay
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer, <Flutter , PHP
+ - Email: ebenmlay.tz@gmail.com
+ - GitHub: [EbenezerMlay](https://github.com/EbenezerMlay)
