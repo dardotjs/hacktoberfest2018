@@ -12,10 +12,6 @@ Aptech Unique Academy
 
 - A good movie and jazz
 
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
 ### Profile Link
 
 [Charles Njau](https://Github/CharlesNjau)
