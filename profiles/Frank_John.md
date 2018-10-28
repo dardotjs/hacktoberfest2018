@@ -15,11 +15,11 @@ I Do Alot of Free Tutorials ..
 
 ### Interests
 
-
 - JavaScript
 - Natural language Processing ""Machine Learning""
 
 ## LIKES AND DISLIKES
+
 | Likes      | Dislikes |
 | --------- | -----:|
 | Computer  | php   |
