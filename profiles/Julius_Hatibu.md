@@ -10,10 +10,10 @@ University of Dodoma, Tanzania
 
 ### Interests
 
-- Python
+- PHP
 - JavaScript
 - Data Science & Machine Learning
--PHP
+- Artifical Interligent
 
 ### Profile Link
 
