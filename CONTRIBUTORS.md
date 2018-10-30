@@ -15,7 +15,7 @@
  - Bio: Developers, Musicians, Foodies, Aspiring JS developers
  - Email: bernadeteffy@gmail.com
  - GitHub: [BernaTeffy](https://github.com/BernaTeffy)
- 
+
 #### Name: Abraham Samma
 - Place: Dar es Salaam, Tanzania
 - Bio: Medical doctor, developer
@@ -39,7 +39,7 @@
  - Bio: Data, Cafes and Bikes
  - Email: usmchome@hotmail.com
  - GitHub: [spookypendo](https://github.com/spookypendo)
- 
+
 #### Name: Adam shoo
  - Place: Dar es Salaam, Tanzania
  - Bio: Developer, #DataScience
@@ -61,9 +61,15 @@
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
 
+ #### Name: Lupyana Mbembati
+  - Place: Kiotani, Dar es Salaam, Tanzania
+  - Bio: Developer, Photographer, and Wusician ( a wanna be musician )
+  - Email: lupyanambembati@gmail.com
+  - GitHub: [lupyana](https://github.com/lupyana)
+
  #### Name: Charles .B. Njau
  - Place: Dar es Salaam, Tanzania
- - Bio: IT 
+ - Bio: IT
  - Email: nlwsolomon@gmail.com
  - Twitter: [@talex](https://twitter.com/talex)
  - GitHub: [mtuchi](https://github.com/CharlesNjau)
@@ -85,14 +91,14 @@
  - Bio: Developer, Android, NodeJs
  - Email: simonmawole2011@gmail.com
  - GitHub: [simonmawole](https://github.com/simonmawole)
- 
+
 #### Name: Blessing Nathaniel Rweikiza
  - Place: Dar es Salaam, Tanzania
  - Bio: Developer and graphic designer
  - Email: blessingnathaniel01@gmail.com
  - Twitter: [@blessnathan01](https://twitter.com/blessnathan01)
  - GitHub: [Blessing-Nathaniel](https://github.com/Blessing-Nathaniel)
- 
+
 #### Name: FRANK JOHN
  - Place: Kinondoni , Dar es Salaam, Tanzania
  - Bio: Developer and Electronics geeks
