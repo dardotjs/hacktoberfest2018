@@ -1,18 +1,21 @@
 #### Name: Joshua Mabina
  - Place: Dar es Salaam, Tanzania
- - Bio: Developer, <3s Vim, #DataScience
+ - Bio: Developer, 😍 Vim, #DataScience
  - Email: mabinajoshua@gmail.com
+ - Blog: https://github.com/joshuamabina/blog
  - GitHub: [joshuamabina](https://github.com/joshuamabina)
+ - Twitter: [joshuamabina](https://twitter.com/joshuamabina)
+ - StackOverflow: [joshuamabina](https://stackoverflow.com/users/3451822/joshuamabina)
 
- #### Name: Julius Hatibu
+#### Name: Julius Hatibu
 - Place: Dar es Salaam, Tanzania
 - Bio: Developer
 - Email: jterlius@gmail.com
 - GitHub: [julius091](https://github.com/julius091)
 
- #### Name: Berna Teffy
+#### Name: Berna Teffy
  - Place: Dar es Salaam, Tanzania
- - Bio: Developers, Musicians, Foodies, Aspiring JS developers
+ - Bio: Developer, Musician, Foodie, Aspiring JS developer
  - Email: bernadeteffy@gmail.com
  - GitHub: [BernaTeffy](https://github.com/BernaTeffy)
 
@@ -61,22 +64,22 @@
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
 
- #### Name: Lupyana Mbembati
+#### Name: Lupyana Mbembati
   - Place: Kiotani, Dar es Salaam, Tanzania
-  - Bio: Developer, Photographer, and Wusician ( a wanna be musician )
+  - Bio: Developer, Photographer, and Wusician (a wanna be musician)
   - Email: lupyanambembati@gmail.com
   - GitHub: [lupyana](https://github.com/lupyana)
 
- #### Name: Charles .B. Njau
+#### Name: Charles B. Njau
  - Place: Dar es Salaam, Tanzania
  - Bio: IT
  - Email: nlwsolomon@gmail.com
  - Twitter: [@talex](https://twitter.com/talex)
  - GitHub: [mtuchi](https://github.com/CharlesNjau)
 
-#### Name: EbenezerMlay
+#### Name: Ebenezer Mlay
  - Place: Dar es Salaam, Tanzania
- - Bio: Developer, <Flutter , PHP
+ - Bio: Developer, 😍 Flutter, PHP
  - Email: ebenmlay.tz@gmail.com
  - GitHub: [EbenezerMlay](https://github.com/EbenezerMlay)
 
@@ -84,9 +87,9 @@
  - Place: Dar es Salaam, Tanzania
  - Bio: Tech noobie
  - Email: psbugs@yahoo.com
- - Github: [Peter](https://github.com/psbug)
+ - Github: [psbug](https://github.com/psbug)
 
- #### Name: Simon Mawole
+#### Name: Simon Mawole
  - Place: Dar es Salaam, Tanzania
  - Bio: Developer, Android, NodeJs
  - Email: simonmawole2011@gmail.com
@@ -99,9 +102,9 @@
  - Twitter: [@blessnathan01](https://twitter.com/blessnathan01)
  - GitHub: [Blessing-Nathaniel](https://github.com/Blessing-Nathaniel)
 
-#### Name: FRANK JOHN
+#### Name: Frank John
  - Place: Kinondoni , Dar es Salaam, Tanzania
  - Bio: Developer and Electronics geeks
  - Email: frank2nyyy@gmail.com
- - Twitter: [@frank2nyy](https://twitter.com/frank2nyy
+ - Twitter: [@frank2nyy](https://twitter.com/frank2nyy)
  - GitHub: [@frank2ny](https://github.com/frank2ny)
