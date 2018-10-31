@@ -108,3 +108,9 @@
  - Email: frank2nyyy@gmail.com
  - Twitter: [@frank2nyy](https://twitter.com/frank2nyy)
  - GitHub: [@frank2ny](https://github.com/frank2ny)
+
+#### Name: Rafael França
+- Place: Rio de Janeiro, RJ, Brazil
+- Bio: Front End Developer
+- Email: rafaelfms@gmail.com
+- GitHub: [euconectei](https://github.com/euconectei)
