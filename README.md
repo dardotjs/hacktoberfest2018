@@ -1,5 +1,7 @@
 ![hacktoberfest-coming-soon 1x](https://user-images.githubusercontent.com/3260441/46313459-9779a000-c5d0-11e8-8235-4e4307490dcc.png)
 
+<h3 align="center"> April 22th, 2022 Update: THIS REPO IS A PUBLIC ARCHIVE, Future ventures will have dedicated repositories Thanks for your checkin it out! </h3>
+
 ## What is Hacktoberfest?
 
 Hacktoberfest is a month-long celebration of open source software. Started originally by our friends at [DigitalOcean](http://digitalocean.com)
